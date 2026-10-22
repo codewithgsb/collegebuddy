@@ -1,2 +1,0 @@
-# collegebuddy
-lost found app
